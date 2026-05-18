@@ -44,13 +44,6 @@ Project home={project_home}
 QGZ folder={qgz_folder}
 ```
 
-## v0.9.0 changes
-
-- Removed the redundant Autofill path style setting from all behaviour tabs.
-- Autofill actions now use the per-tab Autofill content setting directly.
-- Added configurable startup delay before the Browse Enhancer event filter starts. Default: `10000 ms`.
-- Cleaned public-release metadata, icons, README wording, and package contents.
-
 ## Icons
 
 - `fgqep_brand_icon.png` is used for the QGIS Plugin Repository / Plugin Manager icon.
