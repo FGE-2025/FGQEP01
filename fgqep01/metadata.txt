@@ -1,0 +1,18 @@
+[general]
+name=FGQEP01 Browse Enhancer
+description=Enhances QGIS Save/Export browse workflows with extra mouse actions, folder presets, and path autofill.
+version=0.9.0
+license=MIT
+qgisMinimumVersion=3.34
+author=FG
+email=fgefge2025@gmail.com
+homepage=https://github.com/FGE-2025/FGQEP01
+tracker=https://github.com/FGE-2025/FGQEP01/issues
+repository=https://github.com/FGE-2025/FGQEP01
+about=- Improves the QGIS Save/Export browse button and path boxes while keeping the normal QGIS dialogs.<br>- Adds extra mouse actions, such as double-click, long-press, right-click, and middle-click shortcuts.<br>- Provides folder presets for faster path selection.<br>- Supports token-based paths for reusable folder setups.<br>- Helps fill path boxes automatically where appropriate.<br>- Uses focused QGIS file/path widget detection to avoid unrelated buttons.<br>- Includes an advanced mode area for future custom widgets, diagnostics, and extended action mapping.<br><br>FGQEP01 Browse Enhancer is part of FGQEP, a personal QGIS Enhancement Project — a collection of focused QGIS enhancement plugins designed to improve everyday GIS productivity, streamline repetitive workflows, and provide practical user-interface improvements for all QGIS users.
+category=Plugins
+tags=browse,save,export,path,folder,qgsfilewidget,file widget,save dialog,export dialog,path presets,path autofill,mouse gesture,double click,long press,customise
+icon=fgqep_brand_icon.png
+experimental=True
+deprecated=False
+hasProcessingProvider=no
